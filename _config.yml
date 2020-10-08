@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Daniel Grados"
 title_separator          : "-"
 name                     : &name "Daniel Grados"
-description              : &description "I am a research scientist at the Marine Institute of Peru - IMARPE in the field of Data Science and Acoustic. I am quite involved in interdisciplinary research at the interface between data science and marine ecology. My current research interests include deep learning, machine learning, spatio-temporal bayesian models for undesrtanding habitat species"
+description              : &description "personal description"
 url                      : https://danielgrados.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danielgrados/danielgrados.github.io"
-teaser                   :  500x300.png# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : 500x300.png# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -81,15 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Grados"
-  avatar           : "FotoDG_Github.jpg"
-  bio              : "Data Science & Marine biologist"
-  location         : "Marine Institute of Peru"
-  employer         :  "IMARPE"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  avatar           : "profile.png"
+  bio              : "Data Science & Marine Biologist"
+  location         : "Researcher at IMARPE, Peru"
+  employer         : "Lab Acoustic"
+  pubmed           : 
+  #googlescholar    : "https://scholar.google.fr/citations?user=0donG7gAAAAJ"
   email            : "danny.grados[at]gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Daniel_Grados"# example: "https://www.researchgate.net/profile/yourprofile"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0001-5182-2740"
+#  linkedin         : "fablet-ronan-49a4547a"
+  orcid            : "https://orcid.org/0000-0001-5184-2740"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -176,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -210,6 +212,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
