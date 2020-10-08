@@ -1,20 +1,18 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Master Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Cayetano Heredia University"
-date: 2015-01-01
-location: "City, Country"
+date: 
+location: "Lima, Peru"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Time Series
 ======
 
-Heading 2
+Spatial Modelling
 ======
 
-Heading 3
-======
