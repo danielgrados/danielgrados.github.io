@@ -11,7 +11,7 @@ redirect_from:
 <div style="text-align: justify">   
 
 I am a <strong>research <strong>scientist at <strong><Marine Institute of the Sea - IMARPE> in the field of <strong>Data Science and Marine Biology</strong>. I am quite involved in interdisciplinary research at the <strong>interface between data science and marine ecology</strong>. My current research interests include <strong>deep and machine learning applications to understanding marine resources. 
-<br> <img src="https://rfablet.github.io/images/im-datawave.jpg" width="768" align ="middle">
+#<br> <img src="https://rfablet.github.io/images/im-datawave.jpg" width="768" align ="middle">
 <!--</div>
 <div style="text-align: justify">-->
 </div>
