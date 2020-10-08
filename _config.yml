@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Daniel!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Daniel Grados / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Daniel Grados"
+description              : &description "I am a research scientist at the Marine Institute of Peru - IMARPE in the field of Data Science and Acoustic. I am quite involved in interdisciplinary research at the interface between data science and marine ecology. My current research interests include deep learning, machine learning, spatio-temporal bayesian models for undesrtanding habitat species"
+url                      : https://dgrados.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "danielgrados/dgrados.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Daniel Grados"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-5182-2740"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
