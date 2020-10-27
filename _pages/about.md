@@ -10,5 +10,5 @@ redirect_from:
 
 <div style="text-align: justify">   
 
-I am a research scientist at Marine Institute of the Sea - <strong>IMARPE in the field of Data Science and Marine Biology. I am quite involved in interdisciplinary research at the interface between data science and marine ecology. My current research interests include deep and machine learning applications to understanding marine resources. 
+I am a <strong>research <strong>scientist at <a href="http://www.imarpe.gob.pe/">Marine Institute of the Sea</a></strong> in the field of  <strong>Data Sciences and Marine Biology <strong>. I am quite involved in interdisciplinary research at the interface between data science and marine ecology. My current research interests include deep and machine learning applications to understanding marine resources. 
 
