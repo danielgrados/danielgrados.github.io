@@ -8,35 +8,30 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Link to one-page CV** (<a href="https://danielgrados.github.io/files/c_DanielGrados.pdf">pdf</a>)
+
+Domains of interest
+======
+Data science, computational imaging, deep learning & dynamical systems, satellite imagery, ocean monitoring and surveillance, space oceanography, marine ecology
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineer degree in Statistics, National University of Enginiering, Lima, Peru, 2007
+* M.S. in Sciences, Sao Paulo University, Sao Paulo, Brazil, 2011
+* Ph.D in Marine Biology, University of Bretagne Occidentale - UBO, Brest, France, 2014
 
-Work experience
+Professional background
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2017: Research scientist, IMARPE; Lima, Peru
+* 2016-2017: Postdoctoral position, Federal University of Pernanbuco, Recife, Brazil 
+* 2015: Climate change consulting, BID, Lima, Peru
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Coordination and evaluation activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Member of the HMWG-SPRFMO (Habitat Monitoring Working Group)
 
-Publications
+
+<!--- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -53,7 +48,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  --> 
