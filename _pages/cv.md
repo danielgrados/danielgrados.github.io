@@ -12,7 +12,7 @@ redirect_from:
 
 Domains of interest
 ======
-Data science, computational imaging, deep learning & dynamical systems, satellite imagery, ocean monitoring and surveillance, space oceanography, marine ecology
+Data science, Marine Ecology, ocean monitoring and surveillance, space oceanography.
 
 Education
 ======
