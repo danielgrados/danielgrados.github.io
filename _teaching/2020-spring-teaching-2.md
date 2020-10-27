@@ -1,5 +1,5 @@
 ---
-title: "Numerical course. Spring 2020"
+title: "Time course"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2020-spring-teaching-2
@@ -9,4 +9,3 @@ location: "Lima, Peru"
 ---
 
 **Time series modelling** 
-**Spatial modelling** 
