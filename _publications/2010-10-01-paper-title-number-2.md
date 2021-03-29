@@ -1,5 +1,8 @@
+Selected publications
+
 ---
-title: "blablabla"
+title: "Spatio-temporal distribution modeling of dolphinfish (Coryphaena hippurus) in the Pacific Ocean
+off Peru using artisanal longline fishery data"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
