@@ -12,16 +12,19 @@ redirect_from:
 
 Domains of interest
 ======
-Data science, Marine Ecology, ocean monitoring and surveillance, space oceanography.
+Acoustics, Data science, Marine Ecology, ocean monitoring and surveillance, space oceanography.
 
 Education
 ======
-* Engineer degree in Statistics, National University of Enginiering, Lima, Peru, 2007
-* M.S. in Sciences, Sao Paulo University, Sao Paulo, Brazil, 2011
 * Ph.D in Marine Biology, University of Bretagne Occidentale - UBO, Brest, France, 2014
+* M.S. in Sciences, Sao Paulo University, Sao Paulo, Brazil, 2011
+* Engineer degree in Statistics, National University of Enginiering, Lima, Peru, 2007
+
+* Master in Artificial Inteligence, National University of Enginiering, Lima, Perú, 2025 until now
 
 Professional background
 ======
+* Since 2024: Professor at the National University of Enginiering; Lima, Peru
 * Since 2017: Research scientist, IMARPE; Lima, Peru
 * 2016-2017: Postdoctoral position, Federal University of Pernanbuco, Recife, Brazil 
 * 2015: Climate change consulting, BID, Lima, Peru
