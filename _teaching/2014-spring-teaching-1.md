@@ -8,3 +8,5 @@ date: 2014-01-01
 location: "Lima, Peru"
 ---
 **Spatial Modelling**
+
+Bayesian with INLA and SPDE to resolve spatial patterns in marine ecology
